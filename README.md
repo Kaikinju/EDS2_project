@@ -6,8 +6,3 @@ Mrs.Kanteera Meesook 683020238-9 Program in Statistics and Data Science
 Mr. Surayut Phoseema 683020598-9 Program in Statistics and Data Science  
 Mr. Phupha Bunkhen 683020591-3 Program in Statistics and Data Science  
 Mrs.Thiratchanan Butsaen 683020245-2 Program in Statistics and Data Science 
-
-"This sentence is written on Hub"
-
-"This sentence is written on Hub2"
-"This sentence is written on Hub3"
