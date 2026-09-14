@@ -9,4 +9,5 @@ Mrs.Thiratchanan Butsaen 683020245-2 Program in Statistics and Data Science
 
 "This sentence is written By Mr.Chaiwat Nontamart".   
 "This sentence is written By Mrs.Kanteera Meesook".   
-"This sentence is written By Mr. Surayut Phoseema".
+"This sentence is written By Mr. Surayut Phoseema".  
+"This sentence is wirtten By Mr. Phupha Bunkhen".  
