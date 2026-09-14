@@ -8,3 +8,5 @@ Mr. Phupha Bunkhen 683020591-3 Program in Statistics and Data Science
 Mrs.Thiratchanan Butsaen 683020245-2 Program in Statistics and Data Science 
 
 "This sentence is written on Hub"
+
+"This sentence is written on Hub2"
