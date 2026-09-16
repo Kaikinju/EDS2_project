@@ -12,3 +12,17 @@ Mrs.Thiratchanan Butsaen 683020245-2 Program in Statistics and Data Science
 "This sentence is written By Mr. Surayut Phoseema".  
 "This sentence is wirtten By Mr. Phupha Bunkhen".    
 "This sentence is written By Mrs. Thiratchanan Butsaen".
+
+---
+## Create python environment
+`python3 -m venv .venv` - Create the new python environment named `.venv`.
+
+The first python script file:
+``` python
+import pandas
+print("Hello world!")
+print("This is a sample Python application.")
+df = pandas.DataFrame({'A': [1, 2, 3], 'B': [4, 5, 6]})
+print("My first DataFrame:")
+print(df)
+```
