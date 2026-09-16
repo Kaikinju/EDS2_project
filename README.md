@@ -27,4 +27,7 @@ print("My first DataFrame:")
 print(df)
 ```
 
+## About Streamlit web application
 - Install streamlit web application package `pip install streamlit`
+- Run streamlit script file `streamlit run <app-name.py>`
+- Stop web application `CTRL + C`
